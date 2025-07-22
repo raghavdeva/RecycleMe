@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092215499697",
+    "project_id": "master-vehicle-451013-p8",
+    "storage_bucket": "master-vehicle-451013-p8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092215499697:android:1e56517a1329133127ab90",
+        "android_client_info": {
+          "package_name": "com.example.recycle_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5XyCfAzdarPEIJEI-KIa3-qNV3IkfZ5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
