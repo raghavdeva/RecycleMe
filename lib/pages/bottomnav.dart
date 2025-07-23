@@ -4,6 +4,8 @@ import 'package:recycle_me/pages/points.dart';
 import 'package:recycle_me/pages/profile.dart';
 import 'package:recycle_me/pages/home.dart';
 
+import 'check_item.dart';
+
 
 class BottomNav extends StatefulWidget {
   const BottomNav({super.key});
@@ -15,7 +17,7 @@ class BottomNav extends StatefulWidget {
 class _BottomNavState extends State<BottomNav> {
   late List<Widget> pages;
   late Home HomePage;
-  late Profile ProfilePage;
+  late CheckItem CameraPage;
   late Points points;
 
   int currentIndex = 0;
@@ -24,9 +26,9 @@ class _BottomNavState extends State<BottomNav> {
   void initState() {
     HomePage = Home();
     points = Points();
-    ProfilePage = Profile();
+    CameraPage= CheckItem();
 
-    pages = [HomePage, points, ProfilePage];
+    pages = [HomePage, points, CameraPage];
     // TODO: implement initState
     super.initState();
   }

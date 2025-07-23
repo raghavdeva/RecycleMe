@@ -1,0 +1,56 @@
+{
+  "cardboard": {
+    "category": "Cardboard Waste",
+    "disposal": [
+      "Flatten the boxes to save space.",
+      "Remove packing materials (foam, plastic).",
+      "Keep dry to prevent contamination.",
+      "Place in the recycling bin."
+    ]
+  },
+  "Glass": {
+    "category": "Glass Waste",
+    "disposal": [
+      "Rinse glass containers to remove residue.",
+      "Do not break glass intentionally.",
+      "Place in the glass recycling bin.",
+      "Wrap sharp glass in paper if disposing as trash."
+    ]
+  },
+  "Metal": {
+    "category": "Metal Waste",
+    "disposal": [
+      "Clean food containers before recycling.",
+      "Crush cans to save space.",
+      "Do not include wires or electronics here.",
+      "Place in the metal recycling bin."
+    ]
+  },
+  "Paper": {
+    "category": "Paper Waste",
+    "disposal": [
+      "Remove staples and tape if possible.",
+      "Do not recycle wet or oily paper.",
+      "Place clean paper in the recycling bin.",
+      "Avoid mixing with plastic-coated paper."
+    ]
+  },
+  "Plastic": {
+    "category": "Plastic Waste",
+    "disposal": [
+      "Check the recycling number (usually 1–7).",
+      "Rinse bottles and containers.",
+      "Avoid plastic bags (dispose separately).",
+      "Place in the plastics recycling bin."
+    ]
+  },
+  "Trash": {
+    "category": "General Waste",
+    "disposal": [
+      "Place in a sealed garbage bag.",
+      "Do not mix recyclables with general waste.",
+      "Follow local municipal guidelines for disposal.",
+      "Avoid overfilling bins to prevent spillage."
+    ]
+  }
+}
